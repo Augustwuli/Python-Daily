@@ -8,3 +8,7 @@
 
 - [temperature.py](https://github.com/Augustwuli/Python-Daily/blob/master/practice/temperature.py)
 
+3、求圆的周长和面积
+
+- [circle.py](https://github.com/Augustwuli/Python-Daily/blob/master/practice/circle.py)
+
