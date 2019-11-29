@@ -29,3 +29,6 @@
 
 - [triangle.py](https://github.com/Augustwuli/Python-Daily/blob/master/practice/triangle.py)
 
+8、输入一个正整数判断是不是素数
+
+- [prime.py](https://github.com/Augustwuli/Python-Daily/blob/master/practice/prime.py)
