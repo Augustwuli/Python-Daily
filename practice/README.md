@@ -20,3 +20,7 @@
 5、英寸和厘米互换
 
 - [unit.py](https://github.com/Augustwuli/Python-Daily/blob/master/practice/unit.py)
+
+6、分数转换为等级
+
+- [score.py](https://github.com/Augustwuli/Python-Daily/blob/master/practice/score.py)
