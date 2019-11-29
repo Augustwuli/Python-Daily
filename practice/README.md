@@ -24,3 +24,8 @@
 6、分数转换为等级
 
 - [score.py](https://github.com/Augustwuli/Python-Daily/blob/master/practice/score.py)
+
+7、输入三条边长，如果能构成三角形就计算周长和面积
+
+- [triangle.py](https://github.com/Augustwuli/Python-Daily/blob/master/practice/triangle.py)
+
